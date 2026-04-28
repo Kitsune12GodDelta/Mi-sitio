@@ -25,6 +25,27 @@ width: 260px;
 height: auto;
 }
 
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+th {
+    background-color: #0077cc;
+    color: white;
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid #ccc;
+}
+
 .header-texto {
 text-align: left;
 }
