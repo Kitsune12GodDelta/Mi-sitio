@@ -7,7 +7,6 @@ background-color: #f5f5f5;
 color: #333333;
 }
 
-/* HEADER MEJORADO */
 header {
 background-color: #0077cc;
 color: white;
@@ -26,18 +25,15 @@ width: 260px;
 height: auto;
 }
 
-/* TEXTO HEADER */
 .header-texto {
 text-align: left;
 }
 
-/* CONTENEDOR GENERAL */
 section {
 max-width: 900px;
 margin: 20px auto;
 }
 
-/* CUADROS */
 .contenido, .formulario {
 background: #ffffff;
 padding: 20px;
